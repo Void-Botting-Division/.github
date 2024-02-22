@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+We're the programming division of the r/place void group.
+We program things that help with r/place events, for use by the void group.
+
+### Joining
+Want to join and help the cause? Join [our Discord](https://discord.gg/t3GqDsEDas)!
+
 <!--
 
 **Here are some ideas to get you started:**
