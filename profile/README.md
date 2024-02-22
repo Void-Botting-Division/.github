@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-We're the programming division of the r/place void group.
-We program things that help with r/place events, for use by the void group.
+We're the programming division of the r/place Void.
+We program things that help with r/place events, or help the Void in general.
 
 ### Joining
 Want to join and help the cause? Join [our Discord](https://discord.gg/t3GqDsEDas)!
